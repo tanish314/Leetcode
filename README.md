@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/tanish314/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/tanish314/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanish314/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/tanish314/Leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,8 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/tanish314/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/tanish314/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/tanish314/Leetcode/tree/master/0189-rotate-array) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tanish314/Leetcode/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/tanish314/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
