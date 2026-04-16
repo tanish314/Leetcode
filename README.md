@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tanish314/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tanish314/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/tanish314/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/tanish314/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanish314/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/tanish314/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanish314/Leetcode/tree/master/0283-move-zeroes) |
@@ -121,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tanish314/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tanish314/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tanish314/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
