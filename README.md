@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanish314/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/tanish314/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanish314/Leetcode/tree/master/0283-move-zeroes) |
+| [0494-target-sum](https://github.com/tanish314/Leetcode/tree/master/0494-target-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanish314/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanish314/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanish314/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanish314/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0494-target-sum](https://github.com/tanish314/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/tanish314/Leetcode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/tanish314/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/tanish314/Leetcode/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/tanish314/Leetcode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
