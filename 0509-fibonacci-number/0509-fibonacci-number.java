@@ -1,8 +1,14 @@
 class Solution {
-    public int fib(int n) {
-        if(n<=1) {
-            return n;
+       public int fib(int n) {
+
+        int ft = 0, st = 1;
+
+        for(int i = 1; i <= n; i++){
+            int tt = ft + st;
+            ft = st;
+            st = tt;
         }
-        return fib(n-1) + fib(n-2);
+
+        return ft;    
     }
 }
