@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tanish314/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/tanish314/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0387-first-unique-character-in-a-string](https://github.com/tanish314/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanish314/Leetcode/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/tanish314/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanish314/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Stack
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tanish314/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/tanish314/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/tanish314/Leetcode/tree/master/0078-subsets) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/tanish314/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
