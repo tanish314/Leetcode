@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tanish314/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanish314/Leetcode/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/tanish314/Leetcode/tree/master/0494-target-sum) |
+| [1512-number-of-good-pairs](https://github.com/tanish314/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanish314/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanish314/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanish314/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tanish314/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/tanish314/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanish314/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/tanish314/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/tanish314/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/tanish314/Leetcode/tree/master/0509-fibonacci-number) |
+| [1512-number-of-good-pairs](https://github.com/tanish314/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -148,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tanish314/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/tanish314/Leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
