@@ -75,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/tanish314/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/tanish314/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/tanish314/Leetcode/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/tanish314/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/tanish314/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/tanish314/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/tanish314/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/tanish314/Leetcode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/tanish314/Leetcode/tree/master/0231-power-of-two) |
 ## Counting
 |  |
 | ------- |
