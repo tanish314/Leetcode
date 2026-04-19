@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tanish314/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanish314/Leetcode/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/tanish314/Leetcode/tree/master/0494-target-sum) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/tanish314/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/tanish314/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanish314/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanish314/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
