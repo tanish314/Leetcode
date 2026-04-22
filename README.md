@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tanish314/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tanish314/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanish314/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/tanish314/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tanish314/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanish314/Leetcode/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/tanish314/Leetcode/tree/master/0494-target-sum) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tanish314/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/tanish314/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/tanish314/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanish314/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/tanish314/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## String
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanish314/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/tanish314/Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/tanish314/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/tanish314/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/tanish314/Leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tanish314/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanish314/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/tanish314/Leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
