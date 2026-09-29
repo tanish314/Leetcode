@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/tanish314/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/tanish314/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tanish314/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/tanish314/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tanish314/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanish314/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanish314/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tanish314/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/tanish314/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/tanish314/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/tanish314/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanish314/Leetcode/tree/master/0283-move-zeroes) |
